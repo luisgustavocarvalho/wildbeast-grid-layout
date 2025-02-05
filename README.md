@@ -11,7 +11,7 @@ Wildbeast é um projeto de site responsivo de uma única página desenvolvido pa
 
 ## 📸 Preview do Site
 
-<img src="">
+<img src="https://github.com/luisgustavocarvalho/wildbeast-grid-layout/blob/main/Preview%20do%20Site.jpeg?raw=true">
 
 ## 💻 Como Rodar o Projeto
 
